@@ -7,6 +7,18 @@
   pointer-events: none;
 }
 
+.rowmenu {
+  padding:10px;
+  background-color: #282c34;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline;
+  padding: 5px;
+  color:beige;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
